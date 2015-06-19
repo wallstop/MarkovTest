@@ -1,0 +1,12 @@
+
+# Normal java stuff
+.classpath
+
+# Eclipse stuff
+eclipse-bin/*
+.settings/*
+
+# Maven
+target/*
+bin/
+target/
